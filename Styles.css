@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+hr {
+  border-style: dotted none none;
+  border-color: red;
+  border-width: 7px;
+  height: 0px;
+  width: 120px;
+}
+#ram{
+  background-color: black;
+
+  height: 250px;
+}
+.ramu{
+  color:blue;
+}
+
+h1{
+color: red ;
+}
+h3{
+  color: green;
+}
+a:hover{
+  background-color:yellow;
+}
